@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on DevOps.
+- 🌱 I’m currently learning DevOps and Object-oriented software development.
+- 😄 Pronouns: He/him.
+- ⚡ Fun fact: I am a game developer who started working on Unity!
