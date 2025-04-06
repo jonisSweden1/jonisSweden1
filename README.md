@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on DevOps.
-- 🌱 I’m currently learning DevOps and Object-oriented software development.
+- 🔭 I’m currently working on Game Development.
+- 🌱 I’m currently learning Game Development, Change Management, and IT-system design.
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: I am a game developer who started working on Unity!
